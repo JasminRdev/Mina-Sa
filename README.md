@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mina-Sa
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on anything to learn from it
+- 👀 studying Web Development
+- 🌱 currently learning HTML, CSS, JS, node.js
+- 💞️ looking for open-minded people to support each other. Also for a study-buddy to exchange and critizise work.
 - 📫 How to reach me eyesthestic@gmail.com
 
 <!---
