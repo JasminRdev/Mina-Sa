@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mina-Sa
 - 👀 studying Web Development
-- 🌱 currently learning HTML, CSS, JS, node.js
+- learned: HTML, CSS, JS, node.js, MongoDB
+- 🌱 currently learing: React.js 
 - 💞️ looking for open-minded people to support each other. Also for a study-buddy to exchange and critizise work.
 - 📫 How to reach me eyesthestic@gmail.com
 
