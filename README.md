@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Mina-Sa
 - 👀 studying Web Development
-- learned: HTML, CSS, JS, node.js, MongoDB
-- 🌱 currently learing: React.js 
+- 🌱 currently learing: React.js, HTML, CSS, JS, node.js, MongoDB
 - 💞️ looking for open-minded people to support each other. Also for a study-buddy to exchange and critizise work.
-- 📫 How to reach me eyesthestic@gmail.com
+- 📫 How to reach me eyesthestic@gmail.com 
+- Twitter: https://twitter.com/Minaa_Saa
+- Instagram: https://www.instagram.com/jasminr.developer/
 
 <!---
 Mina-Sa/Mina-Sa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
