@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mina-Sa
+- 👋 Hi, I’m @Jasmin_Rdev
 - 👀 studying Web Development
 - 🌱 currently learing: React.js, HTML, CSS, JS, node.js, MongoDB
 - 💞️ looking for open-minded people to support each other. Also for a study-buddy to exchange and critizise work.
